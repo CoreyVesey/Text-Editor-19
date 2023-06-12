@@ -23,9 +23,11 @@
 
 localhost version
   ![Alt text](image.png)
-  ![Alt text](image-3.png)
-  
 Installed Window Version
+  ![Alt text](image-3.png)
+Heroku Version
+  ![Alt text](image-4.png)
+
 
 
 
